@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Safran Blog
+title: 个人前端技术学习
 subtitle: 学习分享前端技术
 description: 学习总结 思考感悟 知识管理
 author: Safran
@@ -104,7 +104,7 @@ jsonContent:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/safranyu/safranyu.github.io.git
+  repository: git@github.com:safranyu/blog.git
   branch: master
 
 
